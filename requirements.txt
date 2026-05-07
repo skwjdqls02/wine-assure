@@ -9,3 +9,4 @@ slowapi
 python-dotenv
 pydantic[email]
 alembic
+openai
