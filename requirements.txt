@@ -10,3 +10,6 @@ python-dotenv
 pydantic[email]
 alembic
 openai
+google-search-results
+python-multipart
+httpx
